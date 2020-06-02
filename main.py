@@ -1,5 +1,6 @@
-from browser import window
 import random
+from browser import window
+
 
 
 # class Game(object):
